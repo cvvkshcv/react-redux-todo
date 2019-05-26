@@ -1,0 +1,10 @@
+ul.todo-list span {
+    margin-left: 10px;
+}
+ul.todo-list span.done {
+    text-decoration: line-through;
+}
+ul.todo-list {
+    padding: 0;
+    list-style: none;
+}
